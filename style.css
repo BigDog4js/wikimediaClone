@@ -1,0 +1,130 @@
+* {
+    font-family:sans-serif;
+    font-size: 85%;
+
+}
+
+body {
+    width:  75%;
+    margin: 0 auto;
+
+}
+
+/*
+#wikipedia {
+    width: 10%;
+}
+
+#wiktionary {
+     width: 10%;
+}
+
+#wikiquote {
+     width: 10%;
+}
+
+#wikibooks {
+     width: 10%;
+}
+
+#wikisource {
+     width: 10%;
+}
+
+#wikinews {
+     width: 10%;
+}
+
+#wikiversity {
+     width: 10%;
+}
+
+#wikispecies {
+    
+    width: 10%;
+}
+
+#mediawiki {
+     width: 10%;
+}
+
+#wikidata {
+     width: 10%;
+}
+
+#commons {
+     width: 10%;
+}
+
+#voyage {
+     width: 10%;
+}
+
+#wikimedia {
+     width: 10%;
+}
+
+#wikimediainc {
+     width: 10%;
+}
+
+#wikimedialabs {
+     width: 10%;
+}
+
+#foundation {
+     width: 10%;
+}
+*/
+#images {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#images img {
+    width: 140px;
+    height: 165px;
+    object-fit: contain;
+/*    margin: 30px;*/
+    padding: 15px;
+}
+#justify {
+    text-align: justify;
+}
+
+#topBox {
+    position: relative;
+    top: 20px;
+}
+
+p {
+    font-size: 22px;
+}
+
+.blue {
+    color: #4286f4;
+}
+
+#align-right {
+    text-align: right;
+}
+
+hr {
+    width: 75%;
+}
+
+#topfooter {
+    font-size: .9em;
+    text-align: center;
+}
+
+#middlefooter {
+    font-size: .9em;
+    text-align: center;
+}
+
+#bottomfooter {
+    font-size: .9em;
+    text-align: center;
+    color: #4286f4;
+}
